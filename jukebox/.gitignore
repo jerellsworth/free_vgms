@@ -1,4 +1,6 @@
+out
 res/resources.res
+res/resources.h
 src/songs.h
 src/songs.c
 *.swp
