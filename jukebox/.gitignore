@@ -1,2 +1,4 @@
 res/resources.res
+src/songs.h
+src/songs.c
 *.swp
