@@ -1,0 +1,1 @@
+In responsibility.vgm, the square wave that PSG1 is playing is supposed to be a lead instrument, but it ended up being quieter than I was happy with. In responsibility_louder_square.vgm, I used PSG1 and PSG2 to play the same part. It sounds better, but the caveat is that if you use this in a game you'll want to avoid using PSG2 to play sound effects.
